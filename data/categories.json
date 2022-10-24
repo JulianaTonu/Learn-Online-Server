@@ -3,26 +3,26 @@
     
     {
         "id": "1",
-        "name": "React js Course"
+        "name": "React js Tutorials"
       },
       {
         "id": "2",
-        "name": "Complete Git Course"
+        "name": "Complete Git Tutorials"
       },
       {
         "id": "3",
-        "name": "Bootstrap 5"
+        "name": "Bootstrap 5 Tutorials"
       },
       {
         "id": "4",
-        "name": "Java Complete Course"
+        "name": "Java Complete Tutorals"
       },
       {
         "id": "5",
-        "name": "Python Django"
+        "name": "Python Django Tutorals"
       },
       {
         "id": "6",
-        "name": "C++ Course"
+        "name": "C++ Course Tutorals"
       }
 ]
