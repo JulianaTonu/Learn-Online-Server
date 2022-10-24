@@ -2,27 +2,27 @@
 
     
     {
-        "id": "01",
+        "id": "1",
         "name": "React js Course"
       },
       {
-        "id": "02",
+        "id": "2",
         "name": "Complete Git Course"
       },
       {
-        "id": "03",
+        "id": "3",
         "name": "Bootstrap 5"
       },
       {
-        "id": "04",
+        "id": "4",
         "name": "Java Complete Course"
       },
       {
-        "id": "05",
+        "id": "5",
         "name": "Python Django"
       },
       {
-        "id": "06",
+        "id": "6",
         "name": "C++ Course"
       }
 ]

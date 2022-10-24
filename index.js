@@ -16,6 +16,12 @@ app.get('/categories' , (req, res)=>{
     res.send(categories)
 })
 
+app.get('/categories/:id',(req, res)=>{
+    const id = req.params.id;
+    const category= categories.find(ct => ct.id === id)
+    res.send(category)
+})
+
 app.listen(port, ()=>{
     console.log(`learn online running on port, ${port}`)
 })
