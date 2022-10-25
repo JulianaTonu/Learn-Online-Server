@@ -1,0 +1,93 @@
+[
+   
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "1",
+
+        "name": "React Js Tutorials",
+        "course_time": { "time": "4hrs" },
+        "total_view": 378,
+      
+        "image_url": "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png",
+        "details": "React. js is a versatile JavaScript library for building interactive user interfaces easily. It is used by companies such as Facebook and Instagram. If you are planning to create UI/UX solutions for mobile or web, this course is extremely beneficial to improve your working skills."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "2",
+
+        "name": "Complete Git tutorial",
+        "course_time": { "time": "7hrs" },
+        "total_view": 178,
+      
+        "image_url": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+        "details": "Git and GitHub are different things.Git is a version control system.Git helps you keep track of code changes.Git is used to collaborate on code.In this tutorial you will understand what Git is and how to use it on the remote repository platforms, like GitHub."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "3",
+
+        "name": "Bootstrap 5",
+        "course_time": { "time": "2hrs" },
+        "total_view": 348,
+      
+        "image_url": "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
+        "details": "Get started with Bootstrap, the world's most popular framework for building responsive, mobile-first sites, with jsDelivr and a template starter page.Bootstrap 5 is the newest version of Bootstrap, which is the most popular HTML, CSS, and JavaScript framework for creating responsive, mobile-first websites."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "4",
+
+        "name": " Java tutorial",
+        "course_time": { "time": "2hrs" },
+        "total_view": 178,
+      
+        "image_url": "https://www.developer.com/wp-content/uploads/2021/09/Java-tutorials.jpg",
+        "details": "Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "5",
+
+        "name": " python Django tutorial",
+        "course_time": { "time": "2hrs" },
+        "total_view": 178,
+      
+        "image_url": "https://freecomputerbooks.com/covers/Effective-Django.jpg",
+        "details": "Django is a back-end server side web framework.Django is free, open source and written in Python.Django makes it easier to build web pages using Python.In this tutorial you get a step by step guide on how to install and create a Django project. You will learn how to create a model where you can create, read, update or delete data.You will learn how to make HTML Templates and use Django Template Tags to insert data within a HTML document.You will learn how to work with QuerySets to extract, filter, and sort data from the database."
+      },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "others_info": {
+          "is_todays_pick": false,
+          "is_trending": true
+        },
+        "category_id": "6",
+
+        "name": " C++ tutorial",
+        "course_time": { "time": "2hrs" },
+        "total_view": 237,
+      
+        "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_CPP.jpg",
+        "details": "In this course, we will learn the mechanics of editing and compiling programs in C++. We will begin with a discussion of the essential elements of C++ programming: variables, loops, expressions, functions, and string class. Then, we will cover the basics of object-oriented programming: classes, inheritance, templates, exceptions, and file manipulation."
+      }
+]
