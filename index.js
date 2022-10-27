@@ -23,6 +23,13 @@ app.get('/categories/:id',(req, res)=>{
     res.send(category)
 })
 
+
+app.get('/category/:id', (req,res)=>{
+    const id = req.params.id
+    const category_tutorial =tutorials.find(ctt => ctt.category_id === id)
+    res.send(category_tutorial)
+})
+
 app.get('/tutorials', (req, res)=>{
     res.send(tutorials)
 })
@@ -32,6 +39,7 @@ app.get('/tutorials/:id', (req, res)=>{
     const s_tutorials = tutorials.find(t => t._id === id)
     res.send(s_tutorials)
 })
+
 
 app.listen(port, ()=>{
     console.log(`learn online running on port, ${port}`)

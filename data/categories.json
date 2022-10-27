@@ -3,7 +3,7 @@
     
     {
         "id": "1",
-        "name": "React js Tutorials"
+        "name": "C++ Course Tutorals"
       },
       {
         "id": "2",
@@ -15,14 +15,14 @@
       },
       {
         "id": "4",
-        "name": "Java Complete Tutorals"
+        "name": "React js Tutorials"
       },
       {
         "id": "5",
-        "name": "Python Django Tutorals"
+        "name": "Java Complete Tutorals"
       },
       {
         "id": "6",
-        "name": "C++ Course Tutorals"
+        "name": "Python Django Tutorals"
       }
 ]
